@@ -1,0 +1,3 @@
+pertemuan 1
+
+disini kita belajar bagaimana cara membuat repository di github 
