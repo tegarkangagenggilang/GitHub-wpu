@@ -1,3 +1,7 @@
 pertemuan 1
 
 disini kita belajar bagaimana cara membuat repository di github 
+- klik tombol + kemudian pilih new repository
+- isi nama repo
+- deskripsi
+- pilih publik/privat
